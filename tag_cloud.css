@@ -1,0 +1,57 @@
+/* colorize */
+
+
+a.tagcloud-2 {
+	color:					#CDB34C;
+	font-size: 0.875em;
+}
+a.tagcloud-3 {
+	color:					#CAA746;
+	font-size: 13px;
+}
+a.tagcloud-5 a:hover{
+	color:					#BE7530;
+	font-size: 15px;
+}
+a.tagcloud-6 {
+	color:					#BB682A;
+	font-size: 18px;
+}
+a.tagcloud-7 {
+	color:					#B85C24;
+	font-size: 20px;
+}
+a.tagcloud-8 {
+	color:					#B54F1F;
+	font-size: 25px;
+}
+a.tagcloud-9 {
+	color:					#B24319;
+	font-size: 30px;
+}
+a.tagcloud-10 {
+	color:					#AC2A0E;
+	font-size: 34px;
+}
+a.tagcloud-11 {
+	color:					#D3B38B;
+	font-size: 36px;
+}
+.widget_title {
+	color:					#D3B38B;
+	font-size: 28px;
+	margin-left :auto;
+	margin-right : 20px;
+	text-align : center;
+}
+
+div.tag_cloud{
+	font-weight: bold;
+	font-style: italic;
+	font-variant: small-caps;
+	font-size: 1em;
+	line-height: 1.5em;
+	font-family: verdana,sans-serif
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+}
